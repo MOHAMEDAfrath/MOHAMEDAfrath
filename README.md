@@ -56,6 +56,8 @@ An intelligent image search engine combining AI-generated image captions with tr
 
 **Tech:** Python · Flask · BLIP · NLP · BM25 · VSM · Scrapy · JavaScript
 
+🔗 [Repository](https://github.com/MOHAMEDAfrath/AIVista)
+
 ---
 
 ### GenAI Test Scenario Generator
