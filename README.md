@@ -90,6 +90,9 @@ A full-stack web application for creating, managing and organising notes, develo
 
 **Tech:** C# · ASP.NET Core · Angular · SQL Server · REST APIs
 
+🔗 [Repository-Angular](https://github.com/MOHAMEDAfrath/FundooNotes-Front)
+🔗 [Repository-Backend](https://github.com/MOHAMEDAfrath/FundooNotes)
+
 ---
 
 ## Professional Experience
