@@ -68,6 +68,8 @@ An AI-based system for generating software test scenarios from user stories and 
 
 **Tech:** Python · T5 · LLMs · NLP · Hugging Face · Generative AI
 
+🔗 [Repository](https://github.com/MOHAMEDAfrath/genai-test-scenario-generator)
+
 ---
 
 ### Cranfield Information Retrieval
