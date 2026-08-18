@@ -72,16 +72,6 @@ An AI-based system for generating software test scenarios from user stories and 
 
 ---
 
-### Cranfield Information Retrieval
-
-**Document Retrieval & Ranking System**
-
-An Information Retrieval system implementing an inverted index and multiple ranking algorithms, including VSM, BM25 and a Unigram Language Model. The system was evaluated using MAP, P@5 and NDCG metrics.
-
-**Tech:** Python · NLTK · NumPy · VSM · BM25 · Information Retrieval
-
----
-
 ### Fundoo Notes
 
 **Full-Stack Note Management Application**
